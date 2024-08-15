@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">DigitalClock</string>
+    <string name="btnAtualizarHora">Atualizar Hora</string>
+    <string name="textHoraAtual">Hora Atual</string>
 </resources>
